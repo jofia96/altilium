@@ -15,4 +15,4 @@ const App = () => {
   )
 }
 export default App
-// CONSTANTS for style ,VALIDATE API, separata file for URL
+
